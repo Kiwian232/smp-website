@@ -1,6 +1,7 @@
 body {
-    background-image: linear-gradient(rgba(0, 183, 179, 0.0), rgba(0, 183, 179, 0.1), rgba(0, 183, 179, 0.2), rgba(0, 183, 179, 0.2), rgba(0, 183, 179, 1.0)), url('resources/pixian_hat_tiled_upscaled.png');
+    background-image: linear-gradient(rgba(0, 183, 179, 0.0), rgba(0, 183, 179, 0.1), rgba(0, 183, 179, 0.2), rgba(0, 183, 179, 0.2), rgba(0, 183, 179, 1.0)), url('resources/pineapple_tile.png');
     background-position: 0px 0px;
+    background-size: 10%;
     background-repeat: repeat;
     image-rendering: pixelated;
 }
